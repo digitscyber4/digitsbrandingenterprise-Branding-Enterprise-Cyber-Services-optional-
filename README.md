@@ -1,2 +1,1 @@
-# digitsbrandingenterprise-Branding-Enterprise-Cyber-Services-optional-
-Official website for Digits 
+Upload contents to GitHub and enable GitHub Pages.
